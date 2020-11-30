@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93665256227",
+    "firebase_url": "https://prova-a3.firebaseio.com",
+    "project_id": "prova-a3",
+    "storage_bucket": "prova-a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93665256227:android:794f8509ce26cc1043a296",
+        "android_client_info": {
+          "package_name": "br.com.leandro.prova_a3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93665256227-k5pan174lc5v1l9o7r1uulmpsulf3kct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBB4rv0i8olnjJK6e4yDorZnME_RWzwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93665256227-k5pan174lc5v1l9o7r1uulmpsulf3kct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
