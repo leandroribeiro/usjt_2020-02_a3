@@ -21,5 +21,5 @@
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/leandroribeiro/usjt_2020-02_a3/master/docs/inicial.png" width="45%" alt="Tela inicial"></img>
-<img src="https://raw.githubusercontent.com/leandroribeiro/usjt_2020-02_a3//master/docs/adicionar.png" width="45%" alt="Tela adicionar"></img> 
+<img src="https://raw.githubusercontent.com/leandroribeiro/usjt_2020-02_a3/main/docs/inicial.png" width="45%" alt="Tela inicial"></img>
+<img src="https://raw.githubusercontent.com/leandroribeiro/usjt_2020-02_a3/main/docs/adicionar.png" width="45%" alt="Tela adicionar"></img> 
